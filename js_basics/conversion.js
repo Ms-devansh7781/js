@@ -48,7 +48,23 @@ false=>0
 */
 
 let someNumber = 33
-let inString= String(someNumber)
 
-console.log(inString)
-console.log(typeof(inString))
+// let inString= String(someNumber)
+// console.log(inString)
+// console.log(typeof(inString))
+
+
+// ******************************** OPerations ***********************************
+
+// console.log(2%3)
+// console.log(3%2)
+
+
+// console.log(2+"2");
+// console.log(1+2+"2");
+// console.log("1"+2+2);
+// console.log(1+3+"2"+2);
+
+console.log(+" ");
+console.log("hello"+" devansh");
+
